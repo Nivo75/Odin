@@ -1,0 +1,28 @@
+.title {
+    background-color: green;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+
+p {
+    color:black;
+    background-color:aqua;
+    font-size: 28px;
+}
+
+h2, h3 {
+    font-size: 32px;
+    color: blue;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+ul, ol{
+    font-style: italic;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
